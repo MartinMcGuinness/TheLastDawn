@@ -1,0 +1,235 @@
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\Editor\Editor\Editor\bin\x86\Debug\Game.ico
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\Editor\Editor\Editor\bin\x86\Debug\GameThumbnail.png
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\Editor\Editor\Editor\bin\x86\Debug\EditorFolder\FormProperties.resx
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\Editor\Editor\Editor\bin\x86\Debug\Camera.cs
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\Editor\Editor\Editor\bin\x86\Debug\Conversion.cs
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\Editor\Editor\Editor\bin\x86\Debug\EditorFolder\FormProperties.cs
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\Editor\Editor\Editor\bin\x86\Debug\EditorFolder\FormProperties.designer.cs
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\Editor\Editor\Editor\bin\x86\Debug\Elements\Activator.cs
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\Editor\Editor\Editor\bin\x86\Debug\Elements\Character.cs
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\Editor\Editor\Editor\bin\x86\Debug\Elements\CharacterState.cs
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\Editor\Editor\Editor\bin\x86\Debug\Elements\Element.cs
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\Editor\Editor\Editor\bin\x86\Debug\Elements\IActivable.cs
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\Editor\Editor\Editor\bin\x86\Debug\Elements\IControllable.cs
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\Editor\Editor\Editor\bin\x86\Debug\InputManager.cs
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\Editor\Editor\Editor\bin\x86\Debug\Program.cs
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\Editor\Editor\Editor\bin\x86\Debug\Game1.cs
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\Editor\Editor\Editor\bin\x86\Debug\Scene.cs
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\Editor\Editor\Editor\bin\x86\Debug\SceneLoader.cs
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\Editor\Editor\Editor\bin\x86\Debug\SelectionManager.cs
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\Editor\Editor\Editor\bin\x86\Debug\SortedList.cs
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\Editor\Editor\Editor\bin\x86\Debug\Transitioner.cs
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\Editor\Editor\Editor\bin\x86\Debug\Editor.exe
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\Editor\Editor\Editor\bin\x86\Debug\Editor.pdb
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\Editor\Editor\Editor\bin\x86\Debug\FarseerPhysicsXNA.dll
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\Editor\Editor\Editor\bin\x86\Debug\irrKlang.NET4.dll
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\Editor\Editor\Editor\bin\x86\Debug\FarseerPhysicsXNA.pdb
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\Editor\Editor\Editor\bin\x86\Debug\FarseerPhysicsXNA.xml
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\Editor\Editor\Editor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\Editor\Editor\Editor\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\Editor\Editor\Editor\obj\x86\Debug\Editor.Editor1.FormProperties.resources
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\Editor\Editor\Editor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\Editor\Editor\Editor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\Editor\Editor\Editor\obj\x86\Debug\Editor.exe
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\Editor\Editor\Editor\obj\x86\Debug\Editor.pdb
+G:\new\Editor\Editor\Editor\bin\x86\Debug\Game.ico
+G:\new\Editor\Editor\Editor\bin\x86\Debug\GameThumbnail.png
+G:\new\Editor\Editor\Editor\bin\x86\Debug\EditorFolder\FormProperties.resx
+G:\new\Editor\Editor\Editor\bin\x86\Debug\Camera.cs
+G:\new\Editor\Editor\Editor\bin\x86\Debug\Conversion.cs
+G:\new\Editor\Editor\Editor\bin\x86\Debug\EditorFolder\FormProperties.cs
+G:\new\Editor\Editor\Editor\bin\x86\Debug\EditorFolder\FormProperties.designer.cs
+G:\new\Editor\Editor\Editor\bin\x86\Debug\Elements\Activator.cs
+G:\new\Editor\Editor\Editor\bin\x86\Debug\Elements\Character.cs
+G:\new\Editor\Editor\Editor\bin\x86\Debug\Elements\CharacterState.cs
+G:\new\Editor\Editor\Editor\bin\x86\Debug\Elements\Element.cs
+G:\new\Editor\Editor\Editor\bin\x86\Debug\Elements\IActivable.cs
+G:\new\Editor\Editor\Editor\bin\x86\Debug\Elements\IControllable.cs
+G:\new\Editor\Editor\Editor\bin\x86\Debug\InputManager.cs
+G:\new\Editor\Editor\Editor\bin\x86\Debug\Program.cs
+G:\new\Editor\Editor\Editor\bin\x86\Debug\Game1.cs
+G:\new\Editor\Editor\Editor\bin\x86\Debug\Scene.cs
+G:\new\Editor\Editor\Editor\bin\x86\Debug\SceneLoader.cs
+G:\new\Editor\Editor\Editor\bin\x86\Debug\SelectionManager.cs
+G:\new\Editor\Editor\Editor\bin\x86\Debug\SortedList.cs
+G:\new\Editor\Editor\Editor\bin\x86\Debug\Transitioner.cs
+G:\new\Editor\Editor\Editor\bin\x86\Debug\Editor.exe
+G:\new\Editor\Editor\Editor\bin\x86\Debug\Editor.pdb
+G:\new\Editor\Editor\Editor\bin\x86\Debug\FarseerPhysicsXNA.dll
+G:\new\Editor\Editor\Editor\bin\x86\Debug\irrKlang.NET4.dll
+G:\new\Editor\Editor\Editor\bin\x86\Debug\FarseerPhysicsXNA.pdb
+G:\new\Editor\Editor\Editor\bin\x86\Debug\FarseerPhysicsXNA.xml
+G:\new\Editor\Editor\Editor\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\new\Editor\Editor\Editor\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\new\Editor\Editor\Editor\obj\x86\Debug\Editor.Editor1.FormProperties.resources
+G:\new\Editor\Editor\Editor\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\new\Editor\Editor\Editor\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\new\Editor\Editor\Editor\obj\x86\Debug\Editor.exe
+G:\new\Editor\Editor\Editor\obj\x86\Debug\Editor.pdb
+C:\Users\lab422\Desktop\new\Editor\Editor\Editor\bin\x86\Debug\Game.ico
+C:\Users\lab422\Desktop\new\Editor\Editor\Editor\bin\x86\Debug\GameThumbnail.png
+C:\Users\lab422\Desktop\new\Editor\Editor\Editor\bin\x86\Debug\EditorFolder\FormProperties.resx
+C:\Users\lab422\Desktop\new\Editor\Editor\Editor\bin\x86\Debug\Camera.cs
+C:\Users\lab422\Desktop\new\Editor\Editor\Editor\bin\x86\Debug\Conversion.cs
+C:\Users\lab422\Desktop\new\Editor\Editor\Editor\bin\x86\Debug\EditorFolder\FormProperties.cs
+C:\Users\lab422\Desktop\new\Editor\Editor\Editor\bin\x86\Debug\EditorFolder\FormProperties.designer.cs
+C:\Users\lab422\Desktop\new\Editor\Editor\Editor\bin\x86\Debug\Elements\Activator.cs
+C:\Users\lab422\Desktop\new\Editor\Editor\Editor\bin\x86\Debug\Elements\Character.cs
+C:\Users\lab422\Desktop\new\Editor\Editor\Editor\bin\x86\Debug\Elements\CharacterState.cs
+C:\Users\lab422\Desktop\new\Editor\Editor\Editor\bin\x86\Debug\Elements\Element.cs
+C:\Users\lab422\Desktop\new\Editor\Editor\Editor\bin\x86\Debug\Elements\IActivable.cs
+C:\Users\lab422\Desktop\new\Editor\Editor\Editor\bin\x86\Debug\Elements\IControllable.cs
+C:\Users\lab422\Desktop\new\Editor\Editor\Editor\bin\x86\Debug\InputManager.cs
+C:\Users\lab422\Desktop\new\Editor\Editor\Editor\bin\x86\Debug\Program.cs
+C:\Users\lab422\Desktop\new\Editor\Editor\Editor\bin\x86\Debug\Game1.cs
+C:\Users\lab422\Desktop\new\Editor\Editor\Editor\bin\x86\Debug\Scene.cs
+C:\Users\lab422\Desktop\new\Editor\Editor\Editor\bin\x86\Debug\SceneLoader.cs
+C:\Users\lab422\Desktop\new\Editor\Editor\Editor\bin\x86\Debug\SelectionManager.cs
+C:\Users\lab422\Desktop\new\Editor\Editor\Editor\bin\x86\Debug\SortedList.cs
+C:\Users\lab422\Desktop\new\Editor\Editor\Editor\bin\x86\Debug\Transitioner.cs
+C:\Users\lab422\Desktop\new\Editor\Editor\Editor\bin\x86\Debug\Editor.exe
+C:\Users\lab422\Desktop\new\Editor\Editor\Editor\bin\x86\Debug\Editor.pdb
+C:\Users\lab422\Desktop\new\Editor\Editor\Editor\bin\x86\Debug\FarseerPhysicsXNA.dll
+C:\Users\lab422\Desktop\new\Editor\Editor\Editor\bin\x86\Debug\irrKlang.NET4.dll
+C:\Users\lab422\Desktop\new\Editor\Editor\Editor\bin\x86\Debug\FarseerPhysicsXNA.pdb
+C:\Users\lab422\Desktop\new\Editor\Editor\Editor\bin\x86\Debug\FarseerPhysicsXNA.xml
+C:\Users\lab422\Desktop\new\Editor\Editor\Editor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\lab422\Desktop\new\Editor\Editor\Editor\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\lab422\Desktop\new\Editor\Editor\Editor\obj\x86\Debug\Editor.Editor1.FormProperties.resources
+C:\Users\lab422\Desktop\new\Editor\Editor\Editor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\lab422\Desktop\new\Editor\Editor\Editor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\lab422\Desktop\new\Editor\Editor\Editor\obj\x86\Debug\Editor.exe
+C:\Users\lab422\Desktop\new\Editor\Editor\Editor\obj\x86\Debug\Editor.pdb
+E:\Editor\Editor\Editor\bin\x86\Debug\Game.ico
+E:\Editor\Editor\Editor\bin\x86\Debug\GameThumbnail.png
+E:\Editor\Editor\Editor\bin\x86\Debug\EditorFolder\FormProperties.resx
+E:\Editor\Editor\Editor\bin\x86\Debug\Camera.cs
+E:\Editor\Editor\Editor\bin\x86\Debug\Conversion.cs
+E:\Editor\Editor\Editor\bin\x86\Debug\EditorFolder\FormProperties.cs
+E:\Editor\Editor\Editor\bin\x86\Debug\EditorFolder\FormProperties.designer.cs
+E:\Editor\Editor\Editor\bin\x86\Debug\Elements\Activator.cs
+E:\Editor\Editor\Editor\bin\x86\Debug\Elements\Character.cs
+E:\Editor\Editor\Editor\bin\x86\Debug\Elements\CharacterState.cs
+E:\Editor\Editor\Editor\bin\x86\Debug\Elements\Element.cs
+E:\Editor\Editor\Editor\bin\x86\Debug\Elements\IActivable.cs
+E:\Editor\Editor\Editor\bin\x86\Debug\Elements\IControllable.cs
+E:\Editor\Editor\Editor\bin\x86\Debug\InputManager.cs
+E:\Editor\Editor\Editor\bin\x86\Debug\Program.cs
+E:\Editor\Editor\Editor\bin\x86\Debug\Game1.cs
+E:\Editor\Editor\Editor\bin\x86\Debug\Scene.cs
+E:\Editor\Editor\Editor\bin\x86\Debug\SceneLoader.cs
+E:\Editor\Editor\Editor\bin\x86\Debug\SelectionManager.cs
+E:\Editor\Editor\Editor\bin\x86\Debug\SortedList.cs
+E:\Editor\Editor\Editor\bin\x86\Debug\Transitioner.cs
+E:\Editor\Editor\Editor\bin\x86\Debug\Editor.exe
+E:\Editor\Editor\Editor\bin\x86\Debug\Editor.pdb
+E:\Editor\Editor\Editor\bin\x86\Debug\FarseerPhysicsXNA.dll
+E:\Editor\Editor\Editor\bin\x86\Debug\irrKlang.NET4.dll
+E:\Editor\Editor\Editor\bin\x86\Debug\FarseerPhysicsXNA.pdb
+E:\Editor\Editor\Editor\bin\x86\Debug\FarseerPhysicsXNA.xml
+E:\Editor\Editor\Editor\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Editor\Editor\Editor\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Editor\Editor\Editor\obj\x86\Debug\Editor.Editor1.FormProperties.resources
+E:\Editor\Editor\Editor\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Editor\Editor\Editor\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Editor\Editor\Editor\obj\x86\Debug\Editor.exe
+E:\Editor\Editor\Editor\obj\x86\Debug\Editor.pdb
+G:\Editor\Editor\Editor\bin\x86\Debug\Game.ico
+G:\Editor\Editor\Editor\bin\x86\Debug\GameThumbnail.png
+G:\Editor\Editor\Editor\bin\x86\Debug\EditorFolder\FormProperties.resx
+G:\Editor\Editor\Editor\bin\x86\Debug\Camera.cs
+G:\Editor\Editor\Editor\bin\x86\Debug\Conversion.cs
+G:\Editor\Editor\Editor\bin\x86\Debug\EditorFolder\FormProperties.cs
+G:\Editor\Editor\Editor\bin\x86\Debug\EditorFolder\FormProperties.designer.cs
+G:\Editor\Editor\Editor\bin\x86\Debug\Elements\Activator.cs
+G:\Editor\Editor\Editor\bin\x86\Debug\Elements\Character.cs
+G:\Editor\Editor\Editor\bin\x86\Debug\Elements\CharacterState.cs
+G:\Editor\Editor\Editor\bin\x86\Debug\Elements\Element.cs
+G:\Editor\Editor\Editor\bin\x86\Debug\Elements\IActivable.cs
+G:\Editor\Editor\Editor\bin\x86\Debug\Elements\IControllable.cs
+G:\Editor\Editor\Editor\bin\x86\Debug\InputManager.cs
+G:\Editor\Editor\Editor\bin\x86\Debug\Program.cs
+G:\Editor\Editor\Editor\bin\x86\Debug\Scene.cs
+G:\Editor\Editor\Editor\bin\x86\Debug\SceneLoader.cs
+G:\Editor\Editor\Editor\bin\x86\Debug\SelectionManager.cs
+G:\Editor\Editor\Editor\bin\x86\Debug\SortedList.cs
+G:\Editor\Editor\Editor\bin\x86\Debug\Transitioner.cs
+G:\Editor\Editor\Editor\bin\x86\Debug\Game1.cs
+G:\Editor\Editor\Editor\bin\x86\Debug\Editor.exe
+G:\Editor\Editor\Editor\bin\x86\Debug\Editor.pdb
+G:\Editor\Editor\Editor\bin\x86\Debug\FarseerPhysicsXNA.dll
+G:\Editor\Editor\Editor\bin\x86\Debug\irrKlang.NET4.dll
+G:\Editor\Editor\Editor\bin\x86\Debug\FarseerPhysicsXNA.pdb
+G:\Editor\Editor\Editor\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Editor\Editor\Editor\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\Editor\Editor\Editor\obj\x86\Debug\Editor.Editor1.FormProperties.resources
+G:\Editor\Editor\Editor\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Editor\Editor\Editor\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Editor\Editor\Editor\obj\x86\Debug\Editor.exe
+G:\Editor\Editor\Editor\obj\x86\Debug\Editor.pdb
+C:\Editor\Editor\Editor\bin\x86\Debug\Game.ico
+C:\Editor\Editor\Editor\bin\x86\Debug\GameThumbnail.png
+C:\Editor\Editor\Editor\bin\x86\Debug\EditorFolder\FormProperties.resx
+C:\Editor\Editor\Editor\bin\x86\Debug\Camera.cs
+C:\Editor\Editor\Editor\bin\x86\Debug\Conversion.cs
+C:\Editor\Editor\Editor\bin\x86\Debug\EditorFolder\FormProperties.cs
+C:\Editor\Editor\Editor\bin\x86\Debug\EditorFolder\FormProperties.designer.cs
+C:\Editor\Editor\Editor\bin\x86\Debug\Elements\Activator.cs
+C:\Editor\Editor\Editor\bin\x86\Debug\Elements\Character.cs
+C:\Editor\Editor\Editor\bin\x86\Debug\Elements\CharacterState.cs
+C:\Editor\Editor\Editor\bin\x86\Debug\Elements\Element.cs
+C:\Editor\Editor\Editor\bin\x86\Debug\Elements\IActivable.cs
+C:\Editor\Editor\Editor\bin\x86\Debug\Elements\IControllable.cs
+C:\Editor\Editor\Editor\bin\x86\Debug\InputManager.cs
+C:\Editor\Editor\Editor\bin\x86\Debug\Program.cs
+C:\Editor\Editor\Editor\bin\x86\Debug\Game1.cs
+C:\Editor\Editor\Editor\bin\x86\Debug\Scene.cs
+C:\Editor\Editor\Editor\bin\x86\Debug\SceneLoader.cs
+C:\Editor\Editor\Editor\bin\x86\Debug\SelectionManager.cs
+C:\Editor\Editor\Editor\bin\x86\Debug\SortedList.cs
+C:\Editor\Editor\Editor\bin\x86\Debug\Transitioner.cs
+C:\Editor\Editor\Editor\bin\x86\Debug\Editor.exe
+C:\Editor\Editor\Editor\bin\x86\Debug\Editor.pdb
+C:\Editor\Editor\Editor\bin\x86\Debug\FarseerPhysicsXNA.dll
+C:\Editor\Editor\Editor\bin\x86\Debug\irrKlang.NET4.dll
+C:\Editor\Editor\Editor\bin\x86\Debug\FarseerPhysicsXNA.pdb
+C:\Editor\Editor\Editor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Editor\Editor\Editor\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Editor\Editor\Editor\obj\x86\Debug\Editor.Editor1.FormProperties.resources
+C:\Editor\Editor\Editor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Editor\Editor\Editor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Editor\Editor\Editor\obj\x86\Debug\Editor.exe
+C:\Editor\Editor\Editor\obj\x86\Debug\Editor.pdb
+C:\Users\lab422\Desktop\Editor 06-11-2012\Editor\Editor\Editor\bin\x86\Debug\Game.ico
+C:\Users\lab422\Desktop\Editor 06-11-2012\Editor\Editor\Editor\bin\x86\Debug\GameThumbnail.png
+C:\Users\lab422\Desktop\Editor 06-11-2012\Editor\Editor\Editor\bin\x86\Debug\EditorFolder\FormProperties.resx
+C:\Users\lab422\Desktop\Editor 06-11-2012\Editor\Editor\Editor\bin\x86\Debug\Camera.cs
+C:\Users\lab422\Desktop\Editor 06-11-2012\Editor\Editor\Editor\bin\x86\Debug\Conversion.cs
+C:\Users\lab422\Desktop\Editor 06-11-2012\Editor\Editor\Editor\bin\x86\Debug\EditorFolder\FormProperties.cs
+C:\Users\lab422\Desktop\Editor 06-11-2012\Editor\Editor\Editor\bin\x86\Debug\EditorFolder\FormProperties.designer.cs
+C:\Users\lab422\Desktop\Editor 06-11-2012\Editor\Editor\Editor\bin\x86\Debug\Elements\Activator.cs
+C:\Users\lab422\Desktop\Editor 06-11-2012\Editor\Editor\Editor\bin\x86\Debug\Elements\Character.cs
+C:\Users\lab422\Desktop\Editor 06-11-2012\Editor\Editor\Editor\bin\x86\Debug\Elements\CharacterState.cs
+C:\Users\lab422\Desktop\Editor 06-11-2012\Editor\Editor\Editor\bin\x86\Debug\Elements\Element.cs
+C:\Users\lab422\Desktop\Editor 06-11-2012\Editor\Editor\Editor\bin\x86\Debug\Elements\IActivable.cs
+C:\Users\lab422\Desktop\Editor 06-11-2012\Editor\Editor\Editor\bin\x86\Debug\Elements\IControllable.cs
+C:\Users\lab422\Desktop\Editor 06-11-2012\Editor\Editor\Editor\bin\x86\Debug\InputManager.cs
+C:\Users\lab422\Desktop\Editor 06-11-2012\Editor\Editor\Editor\bin\x86\Debug\Program.cs
+C:\Users\lab422\Desktop\Editor 06-11-2012\Editor\Editor\Editor\bin\x86\Debug\Game1.cs
+C:\Users\lab422\Desktop\Editor 06-11-2012\Editor\Editor\Editor\bin\x86\Debug\Scene.cs
+C:\Users\lab422\Desktop\Editor 06-11-2012\Editor\Editor\Editor\bin\x86\Debug\SceneLoader.cs
+C:\Users\lab422\Desktop\Editor 06-11-2012\Editor\Editor\Editor\bin\x86\Debug\SelectionManager.cs
+C:\Users\lab422\Desktop\Editor 06-11-2012\Editor\Editor\Editor\bin\x86\Debug\SortedList.cs
+C:\Users\lab422\Desktop\Editor 06-11-2012\Editor\Editor\Editor\bin\x86\Debug\Transitioner.cs
+C:\Users\lab422\Desktop\Editor 06-11-2012\Editor\Editor\Editor\bin\x86\Debug\Editor.exe
+C:\Users\lab422\Desktop\Editor 06-11-2012\Editor\Editor\Editor\bin\x86\Debug\Editor.pdb
+C:\Users\lab422\Desktop\Editor 06-11-2012\Editor\Editor\Editor\bin\x86\Debug\FarseerPhysicsXNA.dll
+C:\Users\lab422\Desktop\Editor 06-11-2012\Editor\Editor\Editor\bin\x86\Debug\irrKlang.NET4.dll
+C:\Users\lab422\Desktop\Editor 06-11-2012\Editor\Editor\Editor\bin\x86\Debug\FarseerPhysicsXNA.pdb
+C:\Users\lab422\Desktop\Editor 06-11-2012\Editor\Editor\Editor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\lab422\Desktop\Editor 06-11-2012\Editor\Editor\Editor\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\lab422\Desktop\Editor 06-11-2012\Editor\Editor\Editor\obj\x86\Debug\Editor.Editor1.FormProperties.resources
+C:\Users\lab422\Desktop\Editor 06-11-2012\Editor\Editor\Editor\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\lab422\Desktop\Editor 06-11-2012\Editor\Editor\Editor\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\lab422\Desktop\Editor 06-11-2012\Editor\Editor\Editor\obj\x86\Debug\Editor.exe
+C:\Users\lab422\Desktop\Editor 06-11-2012\Editor\Editor\Editor\obj\x86\Debug\Editor.pdb

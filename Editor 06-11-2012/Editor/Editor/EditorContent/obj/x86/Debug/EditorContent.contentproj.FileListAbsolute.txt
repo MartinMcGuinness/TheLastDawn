@@ -1,0 +1,7 @@
+C:\Users\Martin\Documents\Visual Studio 2010\Projects\Editor\Editor\EditorContent\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\new\Editor\Editor\EditorContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\lab422\Desktop\new\Editor\Editor\EditorContent\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Editor\Editor\EditorContent\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Editor\Editor\EditorContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Editor\Editor\EditorContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\lab422\Desktop\Editor 06-11-2012\Editor\Editor\EditorContent\obj\x86\Debug\ResolveAssemblyReference.cache
